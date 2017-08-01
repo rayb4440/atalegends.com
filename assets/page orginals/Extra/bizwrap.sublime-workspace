@@ -1,0 +1,582 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"text",
+				"text-align"
+			],
+			[
+				"font",
+				"font-weight"
+			],
+			[
+				"col",
+				"color-primary-0"
+			],
+			[
+				"in",
+				"inherit"
+			],
+			[
+				"back",
+				"background-color"
+			],
+			[
+				"color-s",
+				"color-secondary-2-4"
+			],
+			[
+				"no",
+				"no-repeat"
+			],
+			[
+				"co",
+				"color-primary-4"
+			],
+			[
+				"color",
+				"color-secondary-1-4"
+			],
+			[
+				"las",
+				"last-of-type"
+			],
+			[
+				"border",
+				"border-top-radius"
+			],
+			[
+				"lin",
+				"line-height"
+			],
+			[
+				"bac",
+				"background-repeat"
+			],
+			[
+				"font-f",
+				"font-family"
+			],
+			[
+				"fon",
+				"font-size"
+			],
+			[
+				"list-s",
+				"list-style-position"
+			],
+			[
+				"backgrou",
+				"background-color"
+			],
+			[
+				"d",
+				"double"
+			],
+			[
+				"list",
+				"list-style-type"
+			],
+			[
+				"ba",
+				"background-color"
+			],
+			[
+				"tex",
+				"text-align"
+			],
+			[
+				"vis",
+				"visibility"
+			],
+			[
+				"te",
+				"text-decoration"
+			],
+			[
+				"b-r",
+				"border-radius"
+			],
+			[
+				"br",
+				"border-radius"
+			],
+			[
+				"background",
+				"background-size"
+			],
+			[
+				"cons",
+				"consignments_vsWrapper"
+			],
+			[
+				"center",
+				"consignments_vsWrapper"
+			],
+			[
+				"si",
+				"sidebar_right"
+			],
+			[
+				"upcom",
+				"upcoming_sales_vsWrapper"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"command_palette":
+	{
+		"height": 357.0,
+		"selected_items":
+		[
+			[
+				"Package Control: ",
+				"Package Control: Discover Packages"
+			],
+			[
+				"open",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"save",
+				"Project: Save As"
+			],
+			[
+				"add",
+				"Project: Add Folder"
+			],
+			[
+				"emmet",
+				"Emmet: Expand Abbreviation"
+			],
+			[
+				"Snippet: lor",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 400.0
+	},
+	"console":
+	{
+		"height": 125.0
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/css/all.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/css/flexslider.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/icons/css/ionicons.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/css/sweetalert.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/css/jquery.mCustomScrollbar.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/css/animate.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/index.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/scss/_style.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/scss/_custom.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/scss/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/scss/all.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/scss/_mixins.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/assets/css/master-slider-custom.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/index-CMStemplate.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/home-page-options.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/_Bizwrap/bizwrap/READ ME...",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/scss/style.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/index-200909.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/scss/_base.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/our-team.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/bootstrap/js/npm.js",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/about.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/portfolio-single.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/icons/css/ionicons.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/scss/_custom.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/scss/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/bootstrap/css/bootstrap.min.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/css/style.css",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/index-options.html",
+		"/C/xampp/htdocs/newsites/sass-sites/BOOTSTRAP PROJECTS/dellavalleliquidations.com/assets/scss/_mixins.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/home.html",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/main-img.map",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/palette.css",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/sass/base/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/index-orignal.html",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/home222.html",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/js/README.md",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/jquery.rwdImageMaps.min.js",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/index-orginal.html",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/js/jquery.rwdImageMaps.js",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/js/jquery.rwdImageMaps.min.js",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/staff.html",
+		"/C/xampp/htdocs/newsites/sass-sites/PeerlessPlace.com/images/main-img.jpg.map",
+		"/C/xampp/htdocs/cssTemplate/LillyMandCompany.com/index.html",
+		"/C/xampp/htdocs/cssTemplate/LillyMandCompany.com/past-sales.html",
+		"/C/xampp/htdocs/cssTemplate/LillyMandCompany.com/sales-styling.css",
+		"/C/xampp/htdocs/cssTemplate/LillyMandCompany.com/home.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesbyprestige.com/consignments.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesbyprestige.com/sass/_normalize.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/greaterwashingtonestatesales.com/upcoming-sales.html",
+		"/C/xampp/htdocs/newsites/sass-sites/greaterwashingtonestatesales.com/past-sales.html",
+		"/C/xampp/htdocs/newsites/sass-sites/greaterwashingtonestatesales.com/sales-iframe.css",
+		"/C/xampp/htdocs/newsites/sass-sites/greaterwashingtonestatesales.com/sass/base/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/greaterwashingtonestatesales.com/palette.css",
+		"/C/xampp/htdocs/cssTemplate/TheEstateSaleGroup/index-asof-03112015.html",
+		"/C/xampp/htdocs/projects/bbg2/account.php",
+		"/C/xampp/htdocs/projects/bbg2/js-files/accountInfoToggle.txt",
+		"/C/xampp/htdocs/projects/bbg2/javascriptFiles.php",
+		"/C/xampp/htdocs/projects/bbg2/i-files/account/account-info.php",
+		"/C/xampp/htdocs/projects/bbg2/js-files/accountInfoToggle.php",
+		"/C/xampp/htdocs/projects/bbg2/i-files/account/recent-games.php",
+		"/C/xampp/htdocs/projects/bbg2/index.php",
+		"/C/xampp/htdocs/projects/bbg2/i-files/page-core/doctype-etc-accountPage.php",
+		"/C/xampp/htdocs/projects/bbg2/i-files/page-core/doctype-etc.php",
+		"/C/xampp/htdocs/projects/bbg2/js-files/jq-ui/jquery-ui-1.11.4.custom/jquery-ui.js",
+		"/C/xampp/htdocs/projects/bbg2/login.php",
+		"/C/xampp/htdocs/projects/bbg2/i-files/login/login-validate.php",
+		"/C/xampp/htdocs/projects/bbg2/login-reg.php",
+		"/C/xampp/htdocs/projects/bbg2/i-files/db-con-localhost.php",
+		"/C/xampp/htdocs/projects/bbg2/i-files/db-con-localhost--VS.php",
+		"/C/xampp/htdocs/newsites/sass-sites/hsestatesalesva.com/sass/pallet.txt",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/_palette.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/current.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/PastSales.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/js/cyclePlugin.js",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/about.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/contact.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/testimonials.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/rules.html",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/sass/base/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/estatesalesamerica.net/sass/base/_grid-settings.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/americanaestatesales.com/sass/_palette.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/americanaestatesales.com/sass/base/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/americanaestatesales.com/questions-to-ask.html",
+		"/C/xampp/htdocs/newsites/sass-sites/americanaestatesales.com/home.html",
+		"/C/xampp/htdocs/newsites/sass-sites/americanaestatesales.com/who-are-we.html",
+		"/C/xampp/htdocs/newsites/sass-sites/americanaestatesales.com/contact.html",
+		"/C/xampp/htdocs/newsites/sass-sites/americanaestatesales.com/set-up-process.html",
+		"/C/xampp/htdocs/newsites/sass-sites/critchfieldestatesales.com/sass/base/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/critchfieldestatesales.com/sass/_palette.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/critchfieldestatesales.com/sass/all.css",
+		"/C/xampp/htdocs/newsites/sass-sites/canterburyestatesales.com/index.html",
+		"/C/xampp/htdocs/newsites/sass-sites/canterburyestatesales.com/sass/_palette.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/canterburyestatesales.com/home.html",
+		"/C/xampp/htdocs/newsites/sass-sites/canterburyestatesales.com/testimonials.html",
+		"/C/xampp/htdocs/newsites/sass-sites/canterburyestatesales.com/mailchimp.html",
+		"/C/xampp/htdocs/newsites/sass-sites/canterburyestatesales.com/upcoming-sales.html",
+		"/C/xampp/htdocs/newsites/sass-sites/canterburyestatesales.com/considering-an-estate-sale.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/past-sales.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/upcoming-sales.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/appraisals.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/home.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/sass/base/_variables.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/sass/base/_grid-settings.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/index.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/sass/_global.scss",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/sass/all.css",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/other-service.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/contact-us.html",
+		"/C/xampp/htdocs/newsites/sass-sites/steveminorestatesales.com/Estate-Liquidations.html",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/steveminorestatesales.com/palette.css",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/steveminorestatesales.com/sass/_global.scss",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/steveminorestatesales.com/sass/all.css",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/steveminorestatesales.com/sass/base/_variables.scss",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/steveminorestatesales.com/sass/base/_grid-settings.scss",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/steveminorestatesales.com/home.html",
+		"/C/Users/msherrill/Desktop/newsites/tl/t-nav-1200-001-xx/upcoming-sales.html",
+		"/C/Users/msherrill/Desktop/testing-js/jquery.js",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/afamilyestatesale.com/sass/base/_base.scss",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/afamilyestatesale.com/about.html",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/afamilyestatesale.com/upcoming-sales.html",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/afamilyestatesale.com/upcoming-sales-script.html",
+		"/C/Users/msherrill/Desktop/newsites/tl/t-nav-1200-001-xx/index.html",
+		"/C/Users/msherrill/Desktop/newsites/tl/t-nav-1200-001-xx/service.html",
+		"/C/Users/msherrill/Desktop/newsites/tl/t-nav-1200-001-xx/palette.css",
+		"/C/Users/msherrill/Desktop/newsites/tl/t-nav-1200-001-xx/home.html",
+		"/C/Users/msherrill/Desktop/newsites/tl/t-nav-1200-001-xx/about.html",
+		"/C/Users/msherrill/Desktop/newsites/sass-sites/afamilyestatesale.com/afamilyestatesale.sublime-project"
+	],
+	"find":
+	{
+		"height": 38.0
+	},
+	"find_in_files":
+	{
+		"height": 90.0,
+		"where_history":
+		[
+			"<open files>",
+			"",
+			"<open files>",
+			"",
+			"pallet.txt",
+			"services.html",
+			"servies.html",
+			"_variables.scss",
+			"_palette.scss",
+			"*.txt",
+			"",
+			"_variables.scss",
+			"style.css",
+			"about.html",
+			"style-res.css",
+			"index-res.html",
+			""
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"em",
+			"span",
+			"em",
+			"span",
+			"three",
+			"0FAF97",
+			"footer",
+			"end",
+			"bootstrap",
+			"END",
+			"hidden",
+			"end",
+			"theme-btn-default",
+			"btn-default",
+			"custom",
+			".navbar",
+			"jquery",
+			"variables",
+			"responsive",
+			"navbar-brand",
+			"50px",
+			"navbar-brand",
+			"navbar-header",
+			"transition",
+			"$transition",
+			"transition",
+			"//transition",
+			"transition",
+			"imgPat",
+			"rwdImageMaps.min.js",
+			"usemap",
+			"$('img[usemap]').rwdImageMaps();",
+			"//",
+			"plainlear",
+			"copyright",
+			"Prestige",
+			"H&S",
+			"menu",
+			"fa",
+			"menu ul",
+			"font-family",
+			"page_content",
+			"h1",
+			"complement",
+			"birth_date",
+			"acct_info",
+			"doctype",
+			"birth_date",
+			".fa",
+			"icon",
+			"banner",
+			"@",
+			"h2",
+			"banner img",
+			"logo",
+			"#logo h1",
+			"logo h1",
+			"logo",
+			"font-family",
+			"media",
+			"page",
+			"rules",
+			"inner",
+			"stuff",
+			"slide",
+			"fx",
+			".slide",
+			"center",
+			"client & customer",
+			"white",
+			"border-radius:",
+			"menu",
+			"footer",
+			"outerwrap",
+			"current",
+			"header",
+			"menu",
+			"nav",
+			"current_p",
+			"menu",
+			"@",
+			"inner",
+			"header",
+			"media",
+			"860",
+			"innerwrap",
+			"#banner img",
+			"banner",
+			"header",
+			"header .",
+			"menu",
+			"banner",
+			"center",
+			"banner",
+			"header",
+			"logo02",
+			"menu li",
+			"banner",
+			"menu",
+			"base-link-color",
+			"$base-link-color",
+			"current",
+			"@",
+			"menu li",
+			"banner",
+			"secondary",
+			"@",
+			"outerwrap",
+			"menu",
+			"skew",
+			"banner",
+			"ul",
+			"link",
+			"FF4339",
+			"link",
+			"ul",
+			"null",
+			"border",
+			"thumbnail_list",
+			"menu",
+			"menuIcon",
+			"footer",
+			"current",
+			"menu",
+			"nav",
+			"current",
+			".footer",
+			"footer"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+			"i",
+			"Prestige",
+			"$",
+			"h3",
+			"$",
+			";",
+			"menu",
+			"<li>",
+			"</li>",
+			"</ul>",
+			"<ul>",
+			"<li>",
+			"&amp;",
+			"nav_main",
+			"http://templates.vintagesoftware.com/RES-agedbeauty/",
+			"url(http://templates.vintagesoftware.com/RES-agedbeauty",
+			"&amp;",
+			"http://templates.vintagesoftware.com/oil-painting/",
+			"/image_2.j",
+			"/image_1x.j",
+			"http://templates.vintagesoftware.com/flourish-20140512/"
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 36.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.exec":
+	{
+		"height": 130.0
+	},
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": false,
+	"select_file":
+	{
+		"height": 0.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/msherrill/Desktop/testing222.css"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 500.0,
+		"selected_items":
+		[
+			[
+				"",
+				"/C/Users/msherrill/Desktop/MS-VS Desktop/Code/cssTemplate/MidAtlanticEstateSales.com/Mid-AtlanticEstateSales.sublime-project"
+			]
+		],
+		"width": 380.0
+	},
+	"show_minimap": false,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 232.0,
+	"status_bar_visible": true
+}

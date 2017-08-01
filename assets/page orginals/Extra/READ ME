@@ -1,0 +1,46 @@
+
+
+READ ME NOTES........................
+.......................................for when uploading to CMS
+
+***HTML***
+...............................................................................uploading the INDEX.html file
+
+		***...when site is live, remove the "NO"s below...***
+		<!-- ================================================= -->
+		<meta name="robots" content="NOindex, NOfollow">
+		<!-- ================================================= -->
+
+
+		***...to place indes.html code into VS-CMS, remove this link and be sure to include the [InsertTemplateCSS] below...***
+		<!-- ================================================= -->
+		<link href='./assets/css/all.css' rel='stylesheet' />
+		<!-- ================================================= -->
+		        [InsertTemplateCSS]
+
+
+***CSS***
+...............................................................................uploading the STYLESHEET
+
+		***...this template already has all the styling and other assets in place by including the approprate links in the <head> of the index file...***
+			eg..
+				<!--bootstrap3 css-->
+				<link href="//templates.vintagesoftware.com/bizwrap/assets/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+				<!--ion icon fonts css-->
+				<link href="//templates.vintagesoftware.com/bizwrap/assets/icons/css/ionicons.css" rel="stylesheet">
+				<!--google  font family-->
+				<link href='http://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+				<link href='http://fonts.googleapis.com/css?family=Playfair+Display:400italic' rel='stylesheet' type='text/css'>
+				<!--flex slider css-->
+				<link href="//templates.vintagesoftware.com/bizwrap/assets/css/flexslider.css" rel="stylesheet">
+				<!--animated  css-->
+				<link href="//templates.vintagesoftware.com/bizwrap/assets/css/animate.css" rel="stylesheet">
+
+		***...THE ONLY STYLING NEEDED IN THE TEMPLATE CSS FILE WOULD BE ANY ADDITONAL STYLING CREATED BY THE _custom.scss file ***
+
+		*******************************************************************************************************************************
+				the _custom.scss file is compliled via SASS into the all.css file. So,
+				ONLY COPY THE VERY END OF THE all.css file starting somewhere around line 1700
+				Look for "Custom Styles Start Here" and copy everything after and PASTE into the Template Stylesheet Block
+		*******************************************************************************************************************************
+

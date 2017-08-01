@@ -1,0 +1,424 @@
+// ********** ONLY USE THIS STYLESHEET (complied) WHEN UPLOADING TO VS-CMS ****************
+//***...THE ONLY STYLING NEEDED IN THE TEMPLATE CSS FILE WOULD BE ANY ADDITONAL STYLING CREATED BY THE _custom.scss file ***
+// *** IMPORTANT ***=====================SEE READ ME FILE======================
+//		*******************************************************************************************************************************
+//				the _custom.scss file is compliled via SASS into the all.css file. So,
+//				ONLY COPY THE VERY END OF THE all.css file starting somewhere around line 1700
+//				Look for "Custom Styles Start Here" and copy everything after and PASTE into the Template Stylesheet Block
+//		*******************************************************************************************************************************
+
+/*   */
+/*   */
+/* ...................................................Custom Styles start here
+================================================== */
+
+.main-flex-slider {
+	display: none;
+	}
+
+.footer-text-align {
+	text-align: center;
+}
+
+
+/*==========  Media Queries  ==========*/
+
+/* Custom, iPhone Retina */ 
+@media only screen and (min-width : 320px) {
+    
+}
+
+/* Extra Small Devices, Phones */ 
+@media only screen and (min-width : 480px) {
+
+}
+
+/* Small Devices, Tablets */
+@media only screen and (min-width : 768px) {
+
+}
+
+/* Medium Devices, Desktops */
+@media only screen and (min-width : 992px) {
+	.footer-text-align {
+		text-align: left;
+	}
+}
+
+/* Large Devices, Wide Screens */
+@media only screen and (min-width : 1200px) {
+	.main-flex-slider {
+		display: block;
+		background-color: darken( #26956A, 5%);
+		figcaption h3 {
+		color: #ffffff;
+		}
+	}
+}
+
+.slider-overlay {
+    background: rgba(0, 0, 0, 0.3);
+
+}
+
+.main-flex-slider {
+	display: block;
+}
+
+#content-region-1 {
+    background-color: #697cce;
+}
+
+hr {
+  margin-top: 0px;
+  margin-bottom: 20px;
+  border: 0;
+  border-top: 2px solid #adadad; }
+
+#VSContact {
+    color: #000;
+}
+
+
+
+/*   HEADER BOX STYLES   */
+#content-region-5 {
+  background: url("https://hostingcdn.estatesales.net/d/264/15889/banner_HOME.jpg") no-repeat;
+  padding: 105px 0 105px 0px;
+  width: 100%;
+  overflow: hidden;
+  background-size: cover;
+  position: relative;
+  background-position: center;
+  height: 100%; }
+
+.header-box {
+  background-color: rgba(0, 0, 0, 0.50);
+  padding: 15px 30px 15px 30px;
+  text-align: center;
+  width: 100%;
+}
+
+.header-box p {
+  color: #fff;
+  font-size: 16px; }
+
+.header-box h3 {
+  color: #fff; }
+/*   END HEADER BOX STYLES   */
+
+
+/*   Button Changes   */
+.btn-primary {
+  color: #968cc1;
+  background-color: #fff;
+  border: 2px solid #968cc1;
+  font-weight: 600;
+  letter-spacing: 2px;
+  font-size: 18px;
+}
+
+.btn-primary.active, .btn-primary.focus, .btn-primary:active, .btn-primary:focus, .btn-primary:hover, .btn-home:hover, .open > .dropdown-toggle.btn-primary {
+  color: #fff;
+  background-color: #968cc1;
+  border-color: #fff; }
+
+.btn-home {
+  color: #fff;
+  background-color: transparent;
+  border-color: #FFF;
+  border-width: 4px;
+  font-size: 30px;
+  font-weight: 600;
+}
+
+.btn-home {
+  padding: 15px 20px;
+}
+
+.btn-home:hover, .open > .dropdown-toggle.btn-home {
+  color: #fff;
+  background-color: #968cc1;
+  border-color: #fff; }
+/*   END Button Changes   */
+
+
+
+/*   START FOOTER STYLES   */
+.footer-bottom3 {
+    border-top: 0px solid #111;
+    padding-top: 10px;
+    background-color: rgba(0, 0, 0, 0.79);
+
+}
+
+.footer-col h4 {
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: none;
+    color: rgba(0, 0, 0, 0.79);
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+
+.footer-col p {
+    font-size: 14px;
+    font-weight: 500;
+    text-transform: none;
+    color: rgba(0, 0, 0, 0.79);
+    margin-bottom: 10px;
+    letter-spacing: 2px;
+}
+/*   END FOOTER STYLES   */
+
+
+/*   START NAV STYLES   */
+.nav_logo {
+    display: none;
+}
+
+.navbar-default .navbar-nav > li > a:hover, .navbar-default .navbar-nav > li > a:focus {
+  color: #3C3C3C;
+  background-color: transparent; }
+
+.navbar-default .navbar-nav > li > a {
+  color: #000;
+  font-size: 14px;
+  font-weight: 500;
+  text-transform: uppercase;
+  font-family: "Open Sans", sans-serif; }
+
+
+
+.main_logo img {
+    width: 150px;
+    margin: auto;
+    margin-top: 10px;
+    margin-bottom: 10px;
+}
+
+.navbar-default {
+    background-color:$top-bar-bg;
+    }
+
+@media (min-width: 768px){
+.navbar-nav {
+    float: none;
+    margin: 0;
+}
+}
+
+.navbar-nav > li > a {
+    padding-top: 8px;
+    padding-bottom: 5px;
+}
+
+@media (min-width: 768px){
+.navbar-nav>li {
+    float: none;
+}
+}
+
+.nav>li {
+    position: relative;
+    display: inline-block;
+}
+
+@media (max-width: 766px){
+.nav>li {
+    display: block;
+}
+}
+
+.navbar-default .navbar-collapse, .navbar-default .navbar-form {
+    border-color: #e7e7e7;
+    text-align: center;
+}
+
+.navbar-default .navbar-toggle {
+    border-color: #968cc1;
+    border-width: 4px;
+}
+
+.navbar-toggle {
+   background-color: #fff;
+}
+
+.navbar-default .navbar-toggle .icon-bar {
+    background-color: #968cc1;
+    height: 3px;
+}
+
+.navbar-default .navbar-toggle:hover {
+    background-color: #fbfbfb;
+    }
+
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+}
+
+
+.navbar-default .navbar-nav > li > a:hover {
+    color: #8b86c8;
+    font-size: 16px;
+    font-weight: 600;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+}
+
+@media (max-width: 768px){
+.navbar-default .navbar-nav > li > a {
+    color: #000;
+    background-color: #968cc1;
+    font-size: 16px;
+    font-weight: 500;
+    text-transform: uppercase;
+    font-family: "Open Sans", sans-serif;
+}
+}
+
+@media (max-width: 768px){
+.navbar-nav {
+    margin: 0px 0px;
+}
+
+.navbar-collapse {
+    padding-right: 0px;
+    padding-left: 0px; 
+}
+.navbar-default {
+    padding-bottom: 0px;
+}
+}
+
+/*   END NAV STYLES   */
+
+
+/*   About Page Styles   */
+.about-section {
+  text-align: center;
+  border-style: solid;
+  border-width: 4px;
+  border-color: $top-bar-bg;
+  padding: 20px;
+  }
+
+.about-section p {
+  color: #000;
+  margin-top: 0px;
+  }
+
+.about-section2 p {
+  margin-top: 3%;
+  }
+
+@media (max-width: 765px){
+.desktop-view-about{
+    display: none;
+}
+}
+
+@media (min-width: 766px){
+.mobile-view-about{
+    display: none;
+}
+}
+
+
+@media (max-width: 1199px){
+.about-pic img {
+    padding: 15% 0 15% 0;
+}
+}
+/*   END About Page Styles   */
+
+
+
+/*   Services Page Styles   */
+.services-box i {
+    color: #968cc1;
+    font-size: 70px;
+    margin-bottom: 15px;
+    display: inline-block;
+    width: 140px;
+    height: 140px;
+    line-height: 140px;
+    text-align: center;
+    -webkit-border-radius: 50%;
+    -moz-border-radius: 50%;
+    -ms-border-radius: 50%;
+    border-radius: 50%;
+    border: 2px solid #968cc1;
+    -moz-transition: all 0.3s ease-in;
+    -o-transition: all 0.3s ease-in;
+    -webkit-transition: all 0.3s ease-in;
+    transition: all 0.3s ease-in;
+}
+
+
+
+@media (max-width: 649px){
+.services-box i {
+    font-size: 50px;
+    width: 100px;
+    height: 100px;
+    line-height: 100px;
+    }
+}
+
+@media (max-width: 540px){
+.services-box i {
+    font-size: 150px;
+    width: 230px;
+    height: 230px;
+    line-height: 230px;
+    }
+}
+
+@media (min-width: 540px){
+.col-lg-3 {
+    width: 25%;
+}
+}
+
+.services-text p {
+    color: #000;
+}
+
+.services-text h2 {
+    color: #000;
+    font-size: 35px;
+    line-height: 40px;
+    font-weight: 300;
+    margin-bottom: 3px;
+}
+
+@media (max-width: 540px){
+.desktop-services-view {
+    display: none;
+}
+}
+
+@media (min-width: 541px){
+.mobile-services-view {
+    display: none;
+}
+}
+/*   END Services Page Styles   */
+
+body {
+    font-size: 18px;
+    background-color: #dadada;
+}
+
+.upcoming-sale-message {
+    text-align: center;
+}
+
+#hide-demo-content {
+    display: none;
+}
