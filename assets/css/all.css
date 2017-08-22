@@ -2604,9 +2604,6 @@ font-weight: 600;
 color: #000;
 }
 
-.homeContent h3 {
-text-align: center;
-}
 
 a:hover,a:focus{
     outline: none;
@@ -2656,7 +2653,7 @@ a:hover,a:focus{
     font-size: 16px;
     color: #808080;
     line-height: 26px;
-    padding: 10px 0;
+    padding: 0px 0;
     margin-top: 10px;
 }
 .tab .tab-content h3{
@@ -2679,3 +2676,7 @@ hr {
    margin-bottom: 10px;
 }
 
+.tab .tab-content h4 {
+    font-size: 18px;
+    color: #fff;
+}
